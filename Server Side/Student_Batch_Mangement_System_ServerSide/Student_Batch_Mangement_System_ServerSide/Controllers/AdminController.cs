@@ -9,5 +9,6 @@ namespace Student_Batch_Mangement_System_ServerSide.Controllers
 {
     public class AdminController : ApiController
     {
+
     }
 }
